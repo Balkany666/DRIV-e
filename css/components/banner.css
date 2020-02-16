@@ -1,0 +1,23 @@
+.banner
+{
+
+	padding: 150px 0px;
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 100%), url(https://www.stancenation.com/wp-content/uploads/2015/01/Awaji-nostalgic-car-meeting-2015-63-1400x600.jpg);
+	background-size: cover;
+	background-position: center;
+
+}
+
+.banner h1
+{
+	color: white;
+	font-size: 50px;	
+}
+
+
+.banner h2
+{
+	color: white;
+	font-size: 30px;
+	margin-bottom: 70px;
+}
